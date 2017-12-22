@@ -1,0 +1,9 @@
+.border {
+    border: 1px solid black;
+}
+
+.rounded-border {
+    border: 1px solid black;
+    border-radius: 2em;
+    padding: .2em;
+}
