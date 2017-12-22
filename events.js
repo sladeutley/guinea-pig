@@ -39,8 +39,10 @@ document.getElementById("add-border").addEventListener("click", () => document.g
 // When you click the "Rounded" button, the guinea-pig element's border should become rounded.
 document.getElementById("add-rounding").addEventListener("click", () => document.getElementById("guinea-pig").classList.toggle("rounded-border"));
 
+//I WANT TO BE ABLE TO DO THIS ALL IN JS!!!
 // The first section's text should be bold.
 // The last section's text should be bold and italicized.
 // Make the buttons stop appearing next to each other as inline elements. Change them into block elements.
+//did this in index and css
 
 
